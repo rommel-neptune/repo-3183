@@ -7,7 +7,7 @@
 	},
 	"name": "Package-3183",
 	"description": null,
-	"ver": "24.10.22.1323",
+	"ver": "24.10.22.1324",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"excludeTemplateFiles": false,
