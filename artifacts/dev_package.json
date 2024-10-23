@@ -1,13 +1,13 @@
 {
-	"id": "2c71a445-0576-49a3-b4b2-d0465ad6aa26",
-	"createdAt": "2024-10-22T11:22:54.715Z",
-	"createdBy": "admin",
+	"id": "c32b950f-03ce-4685-80fb-50268e673e64",
+	"createdAt": "2024-10-22T10:54:12.528Z",
+	"createdBy": "playwright",
 	"git": {
 		"remote": "https://github.com/rommel-neptune/repo-3183.git"
 	},
 	"name": "Package-3183",
 	"description": null,
-	"ver": "24.10.22.1324",
+	"ver": "24.10.22.1057",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"excludeTemplateFiles": false,
@@ -35,7 +35,13 @@
 	"role": [],
 	"systems": [],
 	"doc": [],
-	"wf_notifications": [],
+	"wf_notifications": [
+		{
+			"id": "cc71037d-551b-4ee9-978d-0359959193b9",
+			"name": "test/test",
+			"description": null
+		}
+	],
 	"department": [],
 	"script_scheduler": [],
 	"wf_definition": [],
