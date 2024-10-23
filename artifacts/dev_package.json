@@ -35,7 +35,13 @@
 	"role": [],
 	"systems": [],
 	"doc": [],
-	"wf_notifications": [],
+	"wf_notifications": [
+		{
+			"id": "8190a935-94c8-4767-ad96-c7d53efefd7f",
+			"name": "test/test ** (sample ø)",
+			"description": null
+		}
+	],
 	"department": [],
 	"script_scheduler": [],
 	"wf_definition": [],
