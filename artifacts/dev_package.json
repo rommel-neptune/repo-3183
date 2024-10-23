@@ -7,7 +7,7 @@
 	},
 	"name": "Package-3183",
 	"description": null,
-	"ver": "24.10.22.1057",
+	"ver": "24.10.23.1137",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"excludeTemplateFiles": false,
@@ -35,13 +35,7 @@
 	"role": [],
 	"systems": [],
 	"doc": [],
-	"wf_notifications": [
-		{
-			"id": "cc71037d-551b-4ee9-978d-0359959193b9",
-			"name": "test/test ** (sample ø)",
-			"description": null
-		}
-	],
+	"wf_notifications": [],
 	"department": [],
 	"script_scheduler": [],
 	"wf_definition": [],
